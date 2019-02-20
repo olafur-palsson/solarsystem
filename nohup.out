@@ -1,0 +1,18 @@
+found bundled python: /home/bitchhunter3000/Temporary/blender-2.79b-linux-glibc219-x86_64/2.79/python
+Error: Cannot read file '/tmp/quit.blend': No such file or directory
+
+Error: No active face
+
+Error: No active face
+
+Progress:   0.00%    (  0.0010 sec |   0.0000 sec) OBJ Export path: '/home/bitchhunter3000/skoli/graphics/4hd/sun2.obj'
+Progress:   0.00%Progress:   2.78%Progress:   5.56%Progress:   8.33%Progress:  11.11%Progress:  13.89%Progress:  16.67%          (  0.0403 sec |   0.0382 sec) Finished writing geometry of 'Sphere'.
+Progress:  16.67%Progress:  16.67%Progress:  33.33%          (  0.0513 sec |   0.0051 sec) Finished writing geometry of 'Lamp'.
+Progress:  33.33%Progress:  33.33%Progress:  50.00%          (  0.0623 sec |   0.0038 sec) Finished writing geometry of 'Camera'.
+Progress:  50.00%Progress:  50.00%Progress:  50.00%      (  0.0717 sec |   0.0700 sec) Finished exporting geometry, now exporting materials
+Progress: 100.00%      (  0.0750 sec |   0.0734 sec) OBJ Export Finished
+Progress: 100.00%Progress: 100.00%Progress: 100.00%Progress: 100.00%
+
+Saved session recovery to '/tmp/quit.blend'
+
+Blender quit
